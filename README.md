@@ -1,1 +1,3 @@
 # Gui-Application-for-aqcuiring-NIR
+
+This code is a Python script for a GUI application that communicates with a Spectral Triad device via a serial connection. The GUI has two frames on the left-hand side for displaying captured NIR (near-infrared) data and for displaying captured NIR data over time. On the right-hand side, there are two frames for displaying images and a group of checkboxes. The checkboxes are used to select and display information related to various services, and only one checkbox can be selected at a time. The GUI also includes functionality for capturing NIR data and displaying it in real-time on the left-hand side frames, as well as functionality for saving captured data to a CSV file.
